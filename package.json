@@ -1,0 +1,1 @@
+{"description":"Sum up 20 November 2026's world news in one image — a code-drawn front page.","engines":{"node":">=22"},"license":"MIT","name":"makefun-news-image-20261120","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
